@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhendumadhukar&show_icons=true&locale=en" alt="shubhendumadhukar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhendumadhukar&" alt="shubhendumadhukar" /></p>
+
+[![Shubhendu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhendumadhukar)](https://github.com/fauxauldrich/camouflage)
