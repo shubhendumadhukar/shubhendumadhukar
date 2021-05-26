@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhendumadhukar" alt="shubhendumadhukar" /></a> </p>
 
-- 🔭 I’m currently working on [Camouflage, which is a service virtualisation tool.](https://github.com/fauxauldrich/camouflage)
+- 🔭 I’m currently working on [Camouflage, which is a service virtualisation tool.](https://github.com/testinggospels/camouflage)
 
 - 🌱 I’m currently learning **gRPC and Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fauxauldrich](https://github.com/fauxauldrich)
+- 👨‍💻 All of my projects are available at [https://github.com/testinggospels](https://github.com/testinggospels)
 
 - 💬 Ask me about **Camouflage, mountebank and Wiremock**
 
@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhendumadhukar&" alt="shubhendumadhukar" /></p>
 
-[![Shubhendu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhendumadhukar&layout=compact&v=2)](https://github.com/fauxauldrich/camouflage)
+[![Shubhendu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhendumadhukar&layout=compact&v=2)](https://github.com/testinggospels/camouflage)
 
-[![Shubhendu's activity-grap](https://activity-graph.herokuapp.com/graph?username=shubhendumadhukar&theme=xcode)](https://github.com/fauxauldrich/camouflage)
+[![Shubhendu's activity-grap](https://activity-graph.herokuapp.com/graph?username=shubhendumadhukar&theme=xcode)](https://github.com/testinggospels/camouflage)
