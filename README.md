@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Camouflage, which is a service virtualisation tool.](https://github.com/testinggospels/camouflage)
 
-- 🌱 I’m currently learning **gRPC and Angular**
+- 🌱 I’m currently learning **gRPC and SvelteKit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/testinggospels](https://github.com/testinggospels)
 
